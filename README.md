@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Alireza Jafari</h1>
-<h3 align="center">A web developer</h3>
+- 🔭 What I do ? **Make that thing of yours even better**
 
-- 🔭 What I do ? **Make that thing of yours even better. I can help either with the big picture or with specifics.**
+- 🌱 I’m currently learning **Django**
+
+- 👨‍💻 All of my projects are available at [https://alirezacrr.ir/portfolio](https://alirezacrr.ir/portfolio)
+
+- 📝 I regularly write articles on [https://alirezacrr.ir/blog/](https://alirezacrr.ir/blog/)
+
+- 💬 Ask me about **laravel , php , wordpress , css ...**
+
+- 📫 How to reach me **29.alirezajafari@gmail.com**
+
+- 📄 Know about my experiences [https://alirezacrr.ir/resume-en.pdf](https://alirezacrr.ir/resume-en.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
