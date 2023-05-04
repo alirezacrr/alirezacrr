@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alireza Jafari</h1>
 - 🔭 What I do ? **Make that thing of yours even better**
 
-- 🌱 I’m currently learning **Django**
-
 - 👨‍💻 All of my projects are available at [https://alirezacrr.ir/portfolio](https://alirezacrr.ir/portfolio)
 
 - 📝 I regularly write articles on [https://alirezacrr.ir/blog/](https://alirezacrr.ir/blog/)
